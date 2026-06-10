@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/weather/static/js/main.17550881.js",
+    "static/media/cloud.jpeg": "/weather/static/media/cloud.17356c6cc0f00982aeb0.jpeg",
+    "index.html": "/weather/index.html",
+    "main.17550881.js.map": "/weather/static/js/main.17550881.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.17550881.js"
+  ]
+}
